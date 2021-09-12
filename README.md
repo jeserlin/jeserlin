@@ -1,5 +1,5 @@
 <p align='center'>
-    <img width='500px' src='./assets/myBunnies.png' />
+    <img width='300px' src='./assets/myBunnies.png' />
 </p>
 
 <h2 align="center">Hi There</h2>
